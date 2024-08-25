@@ -8,7 +8,7 @@ var b = "Prem";
     var b = "This";     //* var is the globally scoped. redeclared
     console.log(b);     //$ This
 }
-console.log(b);        //$ This
+console.log(b);       //$ This
 
 
 //?Replace var with the let
