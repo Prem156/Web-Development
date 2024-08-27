@@ -15,7 +15,7 @@ console.log(b);        //$ This
 var c = "Hello";
 {
     let c = "Hlo";      //* let is a Block scoped. non-redeclared
-    console.log(c);     //$ Hlo
+    console.log(c);    //$ Hlo
 }
 console.log(c);         //$ Hello
 
