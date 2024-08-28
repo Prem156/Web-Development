@@ -3,7 +3,7 @@ console.log(a);
 a = "String";
 console.log(a);
 
-var b = "Prem";
+var b = "Prem verma";
 {
     var b = "This";     //* var is the globally scoped. redeclared
     console.log(b);     //$ This
