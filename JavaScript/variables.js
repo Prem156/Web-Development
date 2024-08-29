@@ -14,7 +14,7 @@ console.log(b);        //$ This
 //?Replace var with the let
 var c = "Hello";
 {
-    let c = "Hlo";      //* let is a Block scoped. non-redeclared
+    let c = "Hlo";     //* let is a Block scoped. non-redeclared
     console.log(c);    //$ Hlo
 }
 console.log(c);         //$ Hello
