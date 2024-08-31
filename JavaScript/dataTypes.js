@@ -11,7 +11,7 @@ U -- undefined
 
 let a = null;
 let b = 456;
-let c = "Prem";
+let c = "Prem_Verma";
 let d = Symbol("I am a new Symbol");
 let e = true;
 let f = BigInt(47575) + BigInt(4);
