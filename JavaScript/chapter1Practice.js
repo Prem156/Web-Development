@@ -1,6 +1,6 @@
 //* Q1) Create a variable of type string ad try to add a numer to it
 let a = "Prem";
-let b = 7;
+let b = 8;
 let c = a + b
 console.log(c)
 
